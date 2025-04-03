@@ -3,6 +3,9 @@
 
 :root {
     --laranja-claro: #FF862A;
+    --alto-contraste-fundo:#000000;
+    --alto-contraste-texto:#FFFFFF;
+    --alto-contraste-link:#ffd700;
 }
 
 body {
@@ -70,6 +73,12 @@ section {
 
 .display-4 {
     text-shadow: -5px 5px var(--laranja-claro);
+    border-radius:30px;
+    border:none;
+    width:14em
+    height:3em;
+    align-content: center;
+            ®°ºw
 }
 
 
